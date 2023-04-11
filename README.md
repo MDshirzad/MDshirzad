@@ -1,7 +1,7 @@
 - 👋 Hey there
 - This is mohamad, a person who interested in programming !
 - 🌱 I’m currently learning how should I live on my own :))
-- 📫 How to reach me ==> mohamadshbo4@gmail.com
+- 📫 How to reach me ==> mohamadshbo4 AT gmail dot com
 
 <!---
 MDshirzad/MDshirzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
